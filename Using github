@@ -1,0 +1,11 @@
+Using Github
+First, login/make an account
+Create a repository, while making a repository, check the “Initialize this repository with a readme” option unless you are importing an existing repository.
+To create an issue, go to the issues tab and click “New Issue”
+After inputting a title and contents, select “Submit new issue” to submit the issue to the repository
+The issue will remain until closed by someone
+Creating a branch will result in a copy of the original as it was in the time that the branch was created. Editing the branch will not change the original at all. To create a branch, input the name of the new branch in the branch directory.
+To commit, simply change something and select commit. Before committing, write a commit message detailing the reason for changing the code. This helps clarify changes made in the code.
+Pull requests allow you to compare the content in two branches. Pull requests can be used to discuss changes before they happen. In a code request you can see the differences in the two branches. After comparing, you can merge the pull request. Merging the pull request will incorporate one branch in the other. After merging the pull requests you can delete one of the two branches.
+Celebrate, it’s party time.
+
